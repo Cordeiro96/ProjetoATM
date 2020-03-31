@@ -1,0 +1,11 @@
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.exe
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.deps.json
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.runtimeconfig.json
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.dll
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\bin\Debug\netcoreapp3.1\ProjetoATM.pdb
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\obj\Debug\netcoreapp3.1\ProjetoATM.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\obj\Debug\netcoreapp3.1\ProjetoATM.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\obj\Debug\netcoreapp3.1\ProjetoATM.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\obj\Debug\netcoreapp3.1\ProjetoATM.dll
+C:\Users\carlo\Desktop\Codenation\Aula\ProjetoATM\ProjetoATM\obj\Debug\netcoreapp3.1\ProjetoATM.pdb
